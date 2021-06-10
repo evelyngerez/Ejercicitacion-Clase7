@@ -1,0 +1,1 @@
+console.log("crear funcion resta");
